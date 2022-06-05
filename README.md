@@ -4,8 +4,8 @@
 
 ### *``An extenstion to save you students from becoming blind...``*
 
-## After
+### • After:
 <img src="./assets/dark example 1.PNG" width="640">
 
-## Before
+### • Before:
 <img src="./assets/normal example 1.PNG" width="640">
