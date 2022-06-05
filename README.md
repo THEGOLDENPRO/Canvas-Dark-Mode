@@ -1,6 +1,6 @@
 # • Canvas Dark Mode
 
-<img align="right" src="./assets/logo.png" width="200">
+<img align="right" src="./assets/logo.png" width="180">
 
 ### *``An extenstion to save you students from becoming blind...``*
 
