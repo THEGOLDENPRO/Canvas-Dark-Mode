@@ -2,7 +2,7 @@
 
 <img align="right" src="./assets/logo.png" width="160">
 
-### *``An extenstion to save you students from becoming blind...``*
+### *``A chrome extenstion to save you students from becoming blind...``*
 
 ### • After:
 <img src="./assets/dark example 1.PNG" width="640">
