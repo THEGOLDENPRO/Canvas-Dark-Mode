@@ -1,0 +1,21 @@
+{
+    "name": "Canvas Dark Mode",
+    "description": "An extenstion to save you students from becoming blind... By ❤ Dev Goldy",
+    "version": "1.0",
+    "manifest_version": 3,
+
+    "icons" : {
+        "1000":"./assets/logo.png"
+    },
+
+    "action" : {
+        "default_icon" : {
+            "1000" : "./assets/logo_trans.png"
+        }
+    },
+
+    "content_scripts": [{
+        "matches": ["https://*.instructure.com/*"],
+        "css": ["./main.css", "./dark.css", "./fix.css"]
+    }]
+}

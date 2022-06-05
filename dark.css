@@ -1,0 +1,167 @@
+html body {
+    background-color: #242729;
+}
+
+h1 {
+    color: aliceblue;
+    font-weight: 900;
+    text-shadow: 1.8px 1.8px black;
+}
+
+h2, h3, span {
+    color: #b5dcff !important;
+    font-weight: 900 !important;
+    text-shadow: 1.0px 1.0px black !important;
+}
+
+li {
+    color: aliceblue !important;
+    font-weight: 800 !important;
+    text-shadow: 1px 1px black !important;
+}
+
+a {
+    color: #b5dcff !important;
+    font-weight: 800 !important;
+    text-shadow: 1px 1px black !important;
+}
+
+i {
+    color: #b5dcff !important;
+    text-shadow: 1px 1px black !important;
+}
+
+p {
+    color: #a1a1a1;
+    font-weight: 800;
+    text-shadow: 1px 1px black;
+}
+
+svg {
+    text-shadow: 1px 1px black;
+}
+
+
+
+.ic-app-header__logomark-container {
+    background-color: #242729 !important;
+}
+
+
+
+.large {
+    background-color: #111111 !important;
+}
+
+
+
+.Button, .btn {
+    border: none;
+    color: aliceblue !important;
+    font-weight: 900;
+    background-color: #3a3a3a !important;
+    text-shadow: 1px 1px black;
+    box-shadow: 0px 0px 5px black;
+}
+
+
+
+.ic-app-crumbs li {
+    background-color: #242729 !important;
+}
+
+
+
+.ic-app-header {
+    background-color: #3a3a3a !important;
+}
+
+.navigation-tray-container {
+    background-color: #111111 !important;
+}
+
+
+
+.ic-DashboardCard {
+    background-color: #3a3a3a !important;
+}
+
+.ic-DashboardCard .ic-DashboardCard__header_content {
+    background-color: #3a3a3a !important;
+}
+
+
+
+
+
+.ic-notification {
+    border: 0px !important;
+    border-radius: 10px !important;
+}
+
+.ic-notification .ic-notification__content {
+    background-color: #3a3a3a !important;
+}
+
+.ic-notification .ic-notification__icon {
+    background-color: #1b393d !important;
+}
+
+
+.page-toolbar-start, .page-toolbar-end, .page-changed-alert {
+    background-color: #242729 !important;
+}
+
+
+.header-bar {
+    background-color: #111111 !important;
+}
+
+#context-list-holder {
+    background-color: #111111 !important;
+}
+
+.fc {
+    background-color: #3a3a3a !important;
+}
+
+.fc-bg {
+    background-color: #3a3a3a !important;
+}
+
+td {
+    color: aliceblue !important;
+    text-shadow: 1px 1px black;
+}
+
+
+
+.panel {
+    background-color: #111111 !important;
+}
+
+#conversation_filter_select {
+    background-color: #3a3a3a !important;
+}
+
+.ac-input-box {
+    background-color: #3a3a3a !important;
+}
+
+.messages li {
+    background-color: #111111 !important;
+}
+
+
+
+.item-group-container {
+    background-color: #3a3a3a !important;
+}
+
+.ig-header {
+    background-color: #111111 !important;
+}
+
+.item-group-condensed .ig-row {
+    background-color: #3a3a3a !important;
+}
