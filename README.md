@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="./assets/logo.png" width="160">
+  <img align="right" src="./assets/logo.png" width="180">
 
   # 🌙 Canvas Dark Mode
 
